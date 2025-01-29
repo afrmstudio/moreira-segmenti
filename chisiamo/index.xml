@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chi siamo on MoreiraSegmenti.it</title>
-    <link>https://moreirasegmenti.it/chisiamo/</link>
+    <link>http://localhost:1313/chisiamo/</link>
     <description>Recent content in Chi siamo on MoreiraSegmenti.it</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://moreirasegmenti.it/chisiamo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/chisiamo/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
