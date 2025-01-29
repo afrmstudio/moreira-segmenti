@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MoreiraSegmenti.it</title>
-    <link>https://moreirasegmenti.it/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on MoreiraSegmenti.it</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 19 Dec 2024 02:45:06 +0100</lastBuildDate>
-    <atom:link href="https://moreirasegmenti.it/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acciao</title>
-      <link>https://moreirasegmenti.it/tags/acciao/</link>
+      <link>http://localhost:1313/tags/acciao/</link>
       <pubDate>Thu, 19 Dec 2024 02:45:06 +0100</pubDate>
-      <guid>https://moreirasegmenti.it/tags/acciao/</guid>
+      <guid>http://localhost:1313/tags/acciao/</guid>
       <description></description>
     </item>
     <item>
       <title>Fasce Elastiche</title>
-      <link>https://moreirasegmenti.it/tags/fasce-elastiche/</link>
+      <link>http://localhost:1313/tags/fasce-elastiche/</link>
       <pubDate>Thu, 19 Dec 2024 02:45:06 +0100</pubDate>
-      <guid>https://moreirasegmenti.it/tags/fasce-elastiche/</guid>
+      <guid>http://localhost:1313/tags/fasce-elastiche/</guid>
       <description></description>
     </item>
     <item>
       <title>Ghisa</title>
-      <link>https://moreirasegmenti.it/tags/ghisa/</link>
+      <link>http://localhost:1313/tags/ghisa/</link>
       <pubDate>Thu, 19 Dec 2024 02:45:06 +0100</pubDate>
-      <guid>https://moreirasegmenti.it/tags/ghisa/</guid>
+      <guid>http://localhost:1313/tags/ghisa/</guid>
       <description></description>
     </item>
     <item>
       <title>Ptfe</title>
-      <link>https://moreirasegmenti.it/tags/ptfe/</link>
+      <link>http://localhost:1313/tags/ptfe/</link>
       <pubDate>Thu, 19 Dec 2024 02:45:06 +0100</pubDate>
-      <guid>https://moreirasegmenti.it/tags/ptfe/</guid>
+      <guid>http://localhost:1313/tags/ptfe/</guid>
       <description></description>
     </item>
     <item>
       <title>Anelli Di Tenuta</title>
-      <link>https://moreirasegmenti.it/tags/anelli-di-tenuta/</link>
+      <link>http://localhost:1313/tags/anelli-di-tenuta/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://moreirasegmenti.it/tags/anelli-di-tenuta/</guid>
+      <guid>http://localhost:1313/tags/anelli-di-tenuta/</guid>
       <description></description>
     </item>
     <item>
       <title>Segmenti Elastici</title>
-      <link>https://moreirasegmenti.it/tags/segmenti-elastici/</link>
+      <link>http://localhost:1313/tags/segmenti-elastici/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://moreirasegmenti.it/tags/segmenti-elastici/</guid>
+      <guid>http://localhost:1313/tags/segmenti-elastici/</guid>
       <description></description>
     </item>
   </channel>

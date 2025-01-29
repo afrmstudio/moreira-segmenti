@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ptfe on MoreiraSegmenti.it</title>
-    <link>https://moreirasegmenti.it/tags/ptfe/</link>
+    <link>http://localhost:1313/tags/ptfe/</link>
     <description>Recent content in Ptfe on MoreiraSegmenti.it</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 19 Dec 2024 02:45:06 +0100</lastBuildDate>
-    <atom:link href="https://moreirasegmenti.it/tags/ptfe/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ptfe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cilindri in Ghisa: 7 Vantaggi che Devi Conoscere</title>
-      <link>https://moreirasegmenti.it/blog/post-5/</link>
+      <link>http://localhost:1313/blog/post-5/</link>
       <pubDate>Thu, 19 Dec 2024 02:45:06 +0100</pubDate>
-      <guid>https://moreirasegmenti.it/blog/post-5/</guid>
+      <guid>http://localhost:1313/blog/post-5/</guid>
       <description>&lt;h4 id=&#34;introduzione&#34;&gt;Introduzione&lt;/h4&gt;&#xA;&lt;p&gt;I cilindri in ghisa sono una scelta popolare per molte applicazioni industriali, specialmente in macchinari e motori. Ma perché scegliere la ghisa? In questo articolo, esploreremo 7 vantaggi principali dei cilindri in ghisa rispetto ad altri materiali come l’acciaio e il PTFE.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fasce Elastiche per Cilindro: Come Scegliere il Modello Giusto</title>
-      <link>https://moreirasegmenti.it/blog/post-4/</link>
+      <link>http://localhost:1313/blog/post-4/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://moreirasegmenti.it/blog/post-4/</guid>
+      <guid>http://localhost:1313/blog/post-4/</guid>
       <description>&lt;h4 id=&#34;introduzione&#34;&gt;Introduzione&lt;/h4&gt;&#xA;&lt;p&gt;Le fasce elastiche per cilindro sono componenti cruciali in vari settori industriali, come quello oleodinamico, idraulico e automobilistico. Scopri come scegliere il modello giusto, considerando fattori come il materiale (ghisa, acciaio, PTFE), le specifiche tecniche e le esigenze dell&amp;rsquo;applicazione.&lt;/p&gt;</description>
     </item>
   </channel>
